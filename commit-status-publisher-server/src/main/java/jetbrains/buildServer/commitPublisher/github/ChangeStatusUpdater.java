@@ -207,7 +207,7 @@ public class ChangeStatusUpdater {
             comment.append(getViewResultsUrl(build));
             comment.append(") ");
 
-            comment.append("133outco2me waffvvv  cfdf **").append(status.getState().toUpperCase()).append("**\n");
+            comment.append("133outco2me waffvvv  ccccfdf **").append(status.getState().toUpperCase()).append("**\n");
 
             final String text = status.getState();
             if (text != null) {
